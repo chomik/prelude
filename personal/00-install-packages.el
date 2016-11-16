@@ -1,0 +1,15 @@
+(prelude-require-packages
+ '(
+   badwolf-theme
+   evil-escape
+   evil-leader
+   js2-mode
+   json-mode
+   linum-relative
+   neotree
+   ng2-mode
+   tide
+   markdown-mode
+   yafolding
+  )
+)
